@@ -2,7 +2,7 @@
 ---
 ## **Bitcoin Arbitrage Opportunity**
 
-### *In this exercise, I had the opportunity to pick 3 dates to find opportunities for the arbitrage of bitcoin in two different exchanges. *
+### *In this exercise, I had the opportunity to pick 3 dates to find opportunities for the arbitrage of bitcoin in two different exchanges.*
 ---
 
 ## Directory
